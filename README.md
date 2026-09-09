@@ -34,4 +34,12 @@ This project analyzes multi-year agricultural datasets to:
 
 ---
 
-## 📂 Repository Structure
+---
+
+## 👥 End Users & Impact
+
+* **Farmers & Local Agriculture Producers:** Decisions on optimal crop selection and planting schedules based on seasonal climate predictions.
+* **Agricultural Planners:** Data-driven resource allocation (irrigation, fertilizers, and seeds).
+* **Supply Chain & Agri-Businesses:** Production volume forecasting for market pricing and storage planning.
+
+---
